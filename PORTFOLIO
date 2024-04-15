@@ -20,19 +20,23 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Add your information here...</p>
+    <p>My name is Indira  Mehta</p>
+    <p>I am student of NIT Jmashedpur studying in electronics and communication branch.</p>
   </section>
 
   <section id="projects">
     <h2>Projects</h2>
     <div id="project-list">
+      <p>Portfolio</p>
+      <p>Expenseage</p>
       <!-- Add your projects here -->
     </div>
   </section>
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Add your contact information here...</p>
+    <p>Phone: 6202908603</p>
+   <p>Email id: mehtaindira14@gmail.com</p>
   </section>
 
   <footer>
@@ -42,3 +46,5 @@
   <script src="script.js"></script>
 </body>
 </html>
+
+    
